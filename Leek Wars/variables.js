@@ -35,6 +35,8 @@ var middle = [216, 217, 218, 219, 220, 221,
 var n;
 in_the_middle = _isMyLeekInTheMiddle(middle, in_the_middle);
 
+
+// I though these puns were funny back in collège/lycée
 global BDD = ["L’une des choses que j'ai toujours eu le plus de mal à comprendre chez les poireaux est leur manie de perpétuellement dire et répéter les plus plates évidences, genre : «Quelle belle journée» ou encore : «Chéri, j’ai l’impression que tu es tombé au fond d’un puits de dix mètres, est-ce que ça va ?»            ",
 			 "I've got a gun for a mouth and a bullet with your name on it !",
 			 "«EST-CE QUE VOUS ÊTES FROOOIDS ?!» - Un médecin légiste qui arrive au taf.        ",
@@ -42,8 +44,6 @@ global BDD = ["L’une des choses que j'ai toujours eu le plus de mal à compren
 			 "Quand on est mort, c'est pour longtemps.",
 			 "C'est quand il y a un temps mort qu'il faut tuer le temps. Paradoxal, non ?",
 			 "Ne souffler jamais dans un ballon en portant vos lunettes. Ça fera toujours deux verres en moins.",
-			 "Les tomates sont très timides, vous savez. Elles rougient facilement en prennant des formes.",
-			 "Traiter son prochain de c** n'est pas un outrage, mais un diagnostic.",
 			 "Cynique. Grossier personnage dont la vision déformée voit les choses comme elles sont, et non comme elles devraient être.",
 			 "Selon les derniers chiffres, un tiers des statistiques sont fausses.",
 			 "Si tu tentes de résister, je fonce vers tes bases de données et je te reprogramme avec une très grosse hache !",
@@ -60,7 +60,7 @@ global BDD = ["L’une des choses que j'ai toujours eu le plus de mal à compren
 			 "La vitamine C... mais elle ne dira rien.",
 			 "Parfois, il est 16 heures",
 			 "Je prends les paris que c'est le même daltonien qui a créé le jambon blanc et le cordon bleu.",
-			 "Il vaut mieux se taire et passer pour un con plutôt que de parler et de ne laisser aucun doute sur le sujet.",
+			 "Il vaut mieux se taire et passer pour un c** plutôt que de parler et de ne laisser aucun doute sur le sujet.",
 			 "Plop !",
 			 "Entre une mauvaise cuisine et un empoisonnement, il n’y a qu’une différence d’intention.         ",
 			 "Un jour j'ai rencontré une aubergine, une bien étrange expérience.",
